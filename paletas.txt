@@ -1,0 +1,17 @@
+.color1 {color: #000003;}
+.color2 {color: #15264c;}
+.color3 {color: #41569e;}
+.color4 {color: #7a8dfc;}
+.color5 {color: #c1c8ff;}
+
+.color1 {color: #622238;}
+.color2 {color: #8d3140;}
+.color3 {color: #c75046;}
+.color4 {color: #ff8b57;}
+.color5 {color: #ffd663;}
+
+.color1 {color: #395782;}
+.color2 {color: #146284;}
+.color3 {color: #157b91;}
+.color4 {color: #17a59f;}
+.color5 {color: #20dbaf;}
